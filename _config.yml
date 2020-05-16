@@ -1,2 +1,4 @@
 title: "Testing markdown"
 timezone: Europe/London
+
+theme: jekyll-theme-hacker
